@@ -1,2 +1,2 @@
 # RobloxPortable
-Portable version of Roblox
+Guhertoya portable ya Roblox.
